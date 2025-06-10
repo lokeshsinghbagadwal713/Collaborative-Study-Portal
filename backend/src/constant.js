@@ -1,0 +1,1 @@
+export const DB_Name = "Collaborative_Study_Portal";
